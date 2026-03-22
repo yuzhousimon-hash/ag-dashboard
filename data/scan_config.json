@@ -750,6 +750,13 @@
       "action": "immediate_email"
     },
     {
+      "name": "湖北第四批中成药集采规则",
+      "trigger_keywords": ["中成药联盟集采 规则", "第四批 中成药 开标", "银杏叶提取物注射液 集采", "马栗种子提取物 集采", "湖北 中成药 集采", "28采购组 规则"],
+      "severity": "critical",
+      "action": "immediate_email",
+      "note": "GI(银杏叶提取物注射液)和威利坦(马栗种子提取物)已被纳入，报量完成，等待规则出台"
+    },
+    {
       "name": "红标预警",
       "trigger_keywords": [
         "红标 新增",
