@@ -1,0 +1,789 @@
+{
+  "version": "1.0",
+  "updated_at": "2026-03-21",
+  "scan_domains": {
+    "national_pharma_policy": {
+      "label": "国家医药政策",
+      "emoji": "💊",
+      "priority": 1,
+      "keywords": [
+        "医保目录 调整",
+        "集采 中成药",
+        "挂网管理办法",
+        "药品定价",
+        "DRG DIP",
+        "基药目录",
+        "药品注册 审评",
+        "中成药联盟 集采",
+        "价格治理 药品",
+        "医保基金监管",
+        "国家医保局 通知",
+        "药品集中带量采购",
+        "仿制药一致性评价",
+        "国家药监局 公告"
+      ],
+      "sources": {
+        "L1_authority": [
+          {
+            "name": "国家医保局",
+            "url": "https://www.nhsa.gov.cn",
+            "type": "gov"
+          },
+          {
+            "name": "国家药监局",
+            "url": "https://www.nmpa.gov.cn",
+            "type": "gov"
+          },
+          {
+            "name": "国家卫健委",
+            "url": "http://www.nhc.gov.cn",
+            "type": "gov"
+          },
+          {
+            "name": "国务院",
+            "url": "https://www.gov.cn",
+            "type": "gov"
+          }
+        ],
+        "L2_professional": [
+          {
+            "name": "医药经济报",
+            "type": "media"
+          },
+          {
+            "name": "赛柏蓝",
+            "type": "media"
+          },
+          {
+            "name": "E药经理人",
+            "type": "media"
+          },
+          {
+            "name": "中国医药报",
+            "type": "media"
+          }
+        ],
+        "L3_intelligence": [
+          {
+            "name": "医保家",
+            "type": "wechat"
+          },
+          {
+            "name": "药通社",
+            "type": "wechat"
+          },
+          {
+            "name": "药智网",
+            "type": "platform"
+          }
+        ]
+      }
+    },
+    "big_health_policy": {
+      "label": "大健康政策",
+      "emoji": "🏥",
+      "priority": 2,
+      "keywords": [
+        "健康中国 2030",
+        "治未病",
+        "中医药振兴",
+        "保健食品 监管",
+        "功能性食品",
+        "消费医疗",
+        "健康管理",
+        "银杏叶 提取物",
+        "植物药 发展",
+        "全民健身",
+        "预防保健",
+        "中药材 标准化",
+        "中医药 国际化",
+        "大健康 产业"
+      ],
+      "sources": {
+        "L1_authority": [
+          {
+            "name": "国家中医药管理局",
+            "url": "http://www.natcm.gov.cn",
+            "type": "gov"
+          },
+          {
+            "name": "国家卫健委",
+            "url": "http://www.nhc.gov.cn",
+            "type": "gov"
+          },
+          {
+            "name": "国家体育总局",
+            "url": "https://www.sport.gov.cn",
+            "type": "gov"
+          }
+        ],
+        "L2_professional": [
+          {
+            "name": "健康报",
+            "type": "media"
+          },
+          {
+            "name": "动脉网",
+            "type": "media"
+          },
+          {
+            "name": "36氪健康频道",
+            "type": "media"
+          }
+        ],
+        "L3_intelligence": [
+          {
+            "name": "大健康产业公众号",
+            "type": "wechat"
+          }
+        ]
+      }
+    },
+    "pharma_retail": {
+      "label": "医药零售",
+      "emoji": "🏪",
+      "priority": 3,
+      "keywords": [
+        "处方外流",
+        "DTP药房",
+        "零售药店 分级",
+        "慢病管理 药店",
+        "院外市场",
+        "网售处方药",
+        "连锁药店 并购",
+        "OTC 市场",
+        "自费市场 药品",
+        "药店 分类分级",
+        "益丰 大参林",
+        "老百姓大药房",
+        "国大药房",
+        "零售终端"
+      ],
+      "sources": {
+        "L1_authority": [
+          {
+            "name": "商务部",
+            "url": "http://www.mofcom.gov.cn",
+            "type": "gov"
+          },
+          {
+            "name": "国家药监局",
+            "url": "https://www.nmpa.gov.cn",
+            "type": "gov"
+          }
+        ],
+        "L2_professional": [
+          {
+            "name": "米内网",
+            "type": "data_platform"
+          },
+          {
+            "name": "中康CMH",
+            "type": "data_platform"
+          },
+          {
+            "name": "药店经理人",
+            "type": "media"
+          }
+        ],
+        "L3_intelligence": [
+          {
+            "name": "连锁药店年报",
+            "type": "financial"
+          }
+        ]
+      }
+    },
+    "ecommerce": {
+      "label": "电商",
+      "emoji": "🛒",
+      "priority": 4,
+      "keywords": [
+        "医药电商",
+        "互联网医院",
+        "在线问诊",
+        "O2O送药",
+        "网售处方药 监管",
+        "银杏叶 电商",
+        "植物药 线上",
+        "七叶皂苷 电商",
+        "抗焦虑 OTC 电商",
+        "阿里健康",
+        "京东健康",
+        "拼多多 医药",
+        "抖音 健康",
+        "美团买药"
+      ],
+      "sources": {
+        "L1_authority": [
+          {
+            "name": "国家药监局",
+            "url": "https://www.nmpa.gov.cn",
+            "type": "gov"
+          }
+        ],
+        "L2_professional": [
+          {
+            "name": "阿里健康",
+            "type": "platform",
+            "url": "https://www.alihealth.cn"
+          },
+          {
+            "name": "京东健康",
+            "type": "platform",
+            "url": "https://health.jd.com"
+          },
+          {
+            "name": "拼多多",
+            "type": "platform"
+          }
+        ],
+        "L3_intelligence": [
+          {
+            "name": "蝉妈妈",
+            "type": "data_tool"
+          },
+          {
+            "name": "魔镜市场情报",
+            "type": "data_tool"
+          }
+        ]
+      }
+    },
+    "competitor_intel": {
+      "label": "竞品情报",
+      "emoji": "🎯",
+      "priority": 1,
+      "keywords": [
+        "银杏叶提取物 集采",
+        "舒血宁",
+        "银杏达莫",
+        "天保宁",
+        "杏灵分散片",
+        "迈之灵",
+        "地奥司明",
+        "草木犀流浸液",
+        "马栗种子提取物",
+        "圣约翰草",
+        "贯叶连翘",
+        "康恩贝 银杏",
+        "绿谷 银杏",
+        "施维雅 地奥司明"
+      ],
+      "sources": {
+        "L1_authority": [
+          {
+            "name": "上交所公告",
+            "url": "http://www.sse.com.cn",
+            "type": "exchange"
+          },
+          {
+            "name": "深交所公告",
+            "url": "http://www.szse.cn",
+            "type": "exchange"
+          }
+        ],
+        "L2_professional": [
+          {
+            "name": "米内网",
+            "type": "data_platform"
+          },
+          {
+            "name": "IQVIA",
+            "type": "data_platform"
+          },
+          {
+            "name": "丁香园Insight",
+            "type": "data_platform"
+          }
+        ],
+        "L3_intelligence": [
+          {
+            "name": "电商平台价格",
+            "type": "price_monitor"
+          }
+        ]
+      }
+    },
+    "eldercare_policy": {
+      "label": "养老政策",
+      "emoji": "👴",
+      "priority": 2,
+      "keywords": [
+        "长期护理保险",
+        "医养结合",
+        "居家养老",
+        "失能老人",
+        "认知症 预防",
+        "阿尔茨海默 筛查",
+        "银杏叶 认知功能",
+        "脑健康",
+        "老年慢病 管理",
+        "康复护理",
+        "养老服务体系",
+        "智慧养老",
+        "适老化改造",
+        "老龄化 应对",
+        "养老保险"
+      ],
+      "sources": {
+        "L1_authority": [
+          {
+            "name": "民政部",
+            "url": "https://www.mca.gov.cn",
+            "type": "gov"
+          },
+          {
+            "name": "国家卫健委",
+            "url": "http://www.nhc.gov.cn",
+            "type": "gov"
+          },
+          {
+            "name": "人社部",
+            "url": "http://www.mohrss.gov.cn",
+            "type": "gov"
+          },
+          {
+            "name": "国家医保局",
+            "url": "https://www.nhsa.gov.cn",
+            "type": "gov"
+          }
+        ],
+        "L2_professional": [
+          {
+            "name": "中国老龄协会",
+            "type": "association"
+          },
+          {
+            "name": "老龄科学研究中心",
+            "type": "research"
+          }
+        ],
+        "L3_intelligence": [
+          {
+            "name": "养老行业公众号",
+            "type": "wechat"
+          }
+        ]
+      }
+    }
+  },
+  "competitors": {
+    "ginaton": {
+      "label": "金纳多竞品",
+      "mhm_product": "金纳多 Ginaton (银杏叶提取物EGb761)",
+      "specs": [
+        "T20 19.2mg×20片",
+        "T40 19.2mg×40片",
+        "T60 19.2mg×60片",
+        "金滴 口服液"
+      ],
+      "rivals": [
+        {
+          "name": "银杏叶片仿制药(VBP中选4家)",
+          "manufacturers": [
+            "涿州东乐 MS0.1%",
+            "河北晨光 MS0%",
+            "江苏康缘 MS0.2%",
+            "四川科伦 MS0%"
+          ],
+          "specs": "片剂(湖北中成药集采A类中选)",
+          "watch": [
+            "VBP中标价",
+            "各省挂网价",
+            "市场份额",
+            "一致性评价"
+          ],
+          "threat_level": "high"
+        },
+        {
+          "name": "舒血宁注射液",
+          "manufacturers": [
+            "上海RAAS",
+            "神威药业"
+          ],
+          "specs": "注射液",
+          "watch": [
+            "院内份额",
+            "DRG下注射vs口服博弈",
+            "集采纳入"
+          ],
+          "threat_level": "high"
+        },
+        {
+          "name": "银杏达莫注射液",
+          "manufacturers": [
+            "万邦德"
+          ],
+          "specs": "注射液",
+          "watch": [
+            "低端替代",
+            "集采纳入",
+            "不良反应"
+          ],
+          "threat_level": "medium"
+        },
+        {
+          "name": "天保宁(银杏叶片)",
+          "manufacturers": [
+            "康恩贝"
+          ],
+          "specs": "片剂",
+          "watch": [
+            "OTC渠道份额",
+            "电商价格",
+            "零售终端"
+          ],
+          "threat_level": "medium"
+        },
+        {
+          "name": "杏灵分散片",
+          "manufacturers": [
+            "绿谷制药"
+          ],
+          "specs": "分散片",
+          "watch": [
+            "零售渠道份额",
+            "学术推广"
+          ],
+          "threat_level": "low"
+        }
+      ]
+    },
+    "venoforton": {
+      "label": "威利坦竞品",
+      "mhm_product": "威利坦 Venoforton (七叶皂苷钠)",
+      "specs": [
+        "片剂"
+      ],
+      "rivals": [
+        {
+          "name": "迈之灵(马栗种子提取物)",
+          "manufacturers": [
+            "利得药业代理"
+          ],
+          "specs": "片剂",
+          "watch": [
+            "处方份额",
+            "医保支付标准",
+            "学术定位"
+          ],
+          "threat_level": "high"
+        },
+        {
+          "name": "地奥司明",
+          "manufacturers": [
+            "施维雅",
+            "国产仿制多家"
+          ],
+          "specs": "片剂",
+          "watch": [
+            "VBP纳入",
+            "价格洗牌",
+            "指南推荐"
+          ],
+          "threat_level": "high"
+        },
+        {
+          "name": "草木犀流浸液",
+          "manufacturers": [
+            "多家"
+          ],
+          "specs": "口服液",
+          "watch": [
+            "低价替代",
+            "基层市场"
+          ],
+          "threat_level": "medium"
+        }
+      ]
+    },
+    "laif": {
+      "label": "路优泰竞品",
+      "mhm_product": "路优泰 Laif (贯叶连翘提取物)",
+      "specs": [
+        "片剂"
+      ],
+      "rivals": [
+        {
+          "name": "圣约翰草类产品",
+          "manufacturers": [
+            "国产多家"
+          ],
+          "specs": "片剂/胶囊",
+          "watch": [
+            "零售端价格",
+            "渠道布局",
+            "电商份额"
+          ],
+          "threat_level": "medium"
+        },
+        {
+          "name": "抗焦虑/抗抑郁OTC品类",
+          "manufacturers": [
+            "各家"
+          ],
+          "specs": "多种",
+          "watch": [
+            "品类整体增长",
+            "电商表现",
+            "消费者心智"
+          ],
+          "threat_level": "medium"
+        },
+        {
+          "name": "中成药精神类(解郁丸等)",
+          "manufacturers": [
+            "以岭药业等"
+          ],
+          "specs": "多种",
+          "watch": [
+            "基药目录准入",
+            "学术推广",
+            "医保覆盖"
+          ],
+          "threat_level": "high"
+        }
+      ]
+    }
+  },
+  "scan_schedule": {
+    "weekly": {
+      "day": "friday",
+      "domains": [
+        "national_pharma_policy",
+        "competitor_intel",
+        "eldercare_policy"
+      ],
+      "lookback_days": 7
+    },
+    "biweekly": {
+      "domains": [
+        "pharma_retail",
+        "ecommerce",
+        "big_health_policy"
+      ],
+      "lookback_days": 14
+    }
+  },
+  "wechat_scan_strategy": {
+    "_comment": "微信公众号是中国医药行业第一情报源。WeChat文章无法直接抓取，通过 site:mp.weixin.qq.com 搜索引擎索引间接命中。",
+    "search_pattern": "site:mp.weixin.qq.com {keyword}",
+    "named_accounts": [
+      {
+        "name": "赛柏蓝",
+        "focus": "医药政策/行业趋势",
+        "domains": [
+          "national_pharma_policy",
+          "pharma_retail"
+        ]
+      },
+      {
+        "name": "E药经理人",
+        "focus": "医药产业/MNC动态",
+        "domains": [
+          "national_pharma_policy",
+          "competitor_intel"
+        ]
+      },
+      {
+        "name": "医药经济报",
+        "focus": "政策解读/数据分析",
+        "domains": [
+          "national_pharma_policy"
+        ]
+      },
+      {
+        "name": "医保家",
+        "focus": "医保政策/集采动态",
+        "domains": [
+          "national_pharma_policy"
+        ]
+      },
+      {
+        "name": "药通社",
+        "focus": "药品流通/准入",
+        "domains": [
+          "national_pharma_policy",
+          "pharma_retail"
+        ]
+      },
+      {
+        "name": "米内网",
+        "focus": "销售数据/市场排名",
+        "domains": [
+          "competitor_intel",
+          "pharma_retail"
+        ]
+      },
+      {
+        "name": "医药云端工作室",
+        "focus": "集采/挂网/准入深度",
+        "domains": [
+          "national_pharma_policy"
+        ]
+      },
+      {
+        "name": "药智网",
+        "focus": "药品注册/审评/新药",
+        "domains": [
+          "national_pharma_policy",
+          "big_health_policy"
+        ]
+      },
+      {
+        "name": "动脉网",
+        "focus": "大健康/数字医疗/创投",
+        "domains": [
+          "big_health_policy",
+          "ecommerce"
+        ]
+      },
+      {
+        "name": "丁香园",
+        "focus": "学术/临床/KOL",
+        "domains": [
+          "competitor_intel"
+        ]
+      },
+      {
+        "name": "健识局",
+        "focus": "医药产业深度/并购",
+        "domains": [
+          "national_pharma_policy",
+          "competitor_intel"
+        ]
+      },
+      {
+        "name": "新浪医药",
+        "focus": "医药宏观/行业盘点",
+        "domains": [
+          "national_pharma_policy",
+          "big_health_policy"
+        ]
+      },
+      {
+        "name": "药事纵横",
+        "focus": "药品注册/MAH",
+        "domains": [
+          "national_pharma_policy"
+        ]
+      },
+      {
+        "name": "中康CMH",
+        "focus": "零售药店数据/排名",
+        "domains": [
+          "pharma_retail"
+        ]
+      },
+      {
+        "name": "医药魔方",
+        "focus": "竞品管线/临床进展",
+        "domains": [
+          "competitor_intel"
+        ]
+      },
+      {
+        "name": "养老研究",
+        "focus": "养老产业/LTC保险",
+        "domains": [
+          "eldercare_policy"
+        ]
+      },
+      {
+        "name": "AgeClub",
+        "focus": "银发经济/养老商业",
+        "domains": [
+          "eldercare_policy"
+        ]
+      },
+      {
+        "name": "药店经理人",
+        "focus": "零售终端/DTP/慢病",
+        "domains": [
+          "pharma_retail"
+        ]
+      },
+      {
+        "name": "亿欧健谈",
+        "focus": "医疗健康/电商/融资",
+        "domains": [
+          "ecommerce",
+          "big_health_policy"
+        ]
+      },
+      {
+        "name": "36氪",
+        "focus": "互联网医疗/数字健康",
+        "domains": [
+          "ecommerce"
+        ]
+      }
+    ],
+    "cross_domain_roundup_keywords": [
+      "医药政策 盘点 2026",
+      "医药行业 趋势 2026",
+      "医药 十大 政策",
+      "医保 年度 回顾",
+      "集采 最新 动态",
+      "医药 深度 分析",
+      "植物药 政策 趋势",
+      "中成药 集采 最新",
+      "养老 政策 最新",
+      "医药零售 趋势",
+      "医药电商 排名",
+      "银杏叶 市场 分析",
+      "DRG DIP 最新 政策",
+      "长期护理保险 进展",
+      "十五五 医药 规划"
+    ]
+  },
+  "alert_rules": [
+    {
+      "name": "VBP新批次",
+      "trigger_keywords": [
+        "集采 公告",
+        "带量采购 文件",
+        "联盟采购 通知"
+      ],
+      "severity": "critical",
+      "action": "immediate_email"
+    },
+    {
+      "name": "红标预警",
+      "trigger_keywords": [
+        "红标 新增",
+        "挂网 暂停",
+        "取消挂网"
+      ],
+      "severity": "critical",
+      "action": "immediate_email"
+    },
+    {
+      "name": "竞品价格异动",
+      "trigger_keywords": [
+        "银杏叶 降价",
+        "舒血宁 中标",
+        "地奥司明 集采"
+      ],
+      "severity": "high",
+      "action": "weekly_highlight"
+    },
+    {
+      "name": "养老政策重大",
+      "trigger_keywords": [
+        "长期护理保险 试点",
+        "医养结合 意见",
+        "认知 筛查"
+      ],
+      "severity": "medium",
+      "action": "weekly_highlight"
+    }
+  ],
+  "output_config": {
+    "json_path": "data/policy_scan.json",
+    "competitor_json_path": "data/competitor_intel.json",
+    "report_dir": "data/reports",
+    "email_recipient": "simon.yu@synthasiachina.com"
+  }
+}

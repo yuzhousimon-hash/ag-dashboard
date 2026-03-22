@@ -1,0 +1,707 @@
+{
+  "generated_at": "2026-03-20 19:50",
+  "next_week_actions": [
+    {
+      "province": "天津市",
+      "product": "T60",
+      "event": "T60平台切换",
+      "window": "2/23-3/31",
+      "days_until": 0,
+      "prep_checklist": [
+        "≥3省挂网截图",
+        "进口药品注册证",
+        "GMP证书",
+        "首次挂网申请材料"
+      ],
+      "monthly_vol": 0,
+      "priority": "P2 维护"
+    },
+    {
+      "province": "上海市",
+      "product": "T20",
+      "event": "T20平台切换",
+      "window": "3/23-3/27",
+      "days_until": 2,
+      "prep_checklist": [
+        "总代变更确认函",
+        "进口药品注册证",
+        "GMP证书",
+        "授权委托书",
+        "海牙认证文件",
+        "领馆认证文件",
+        "翻译公证材料"
+      ],
+      "monthly_vol": 113988,
+      "priority": "P0 立即"
+    },
+    {
+      "province": "上海市",
+      "product": "T40",
+      "event": "T40平台切换",
+      "window": "3/23-3/27",
+      "days_until": 2,
+      "prep_checklist": [
+        "总代变更确认函",
+        "进口药品注册证",
+        "GMP证书",
+        "授权委托书",
+        "挂网申请材料",
+        "海牙认证文件",
+        "领馆认证文件",
+        "翻译公证材料"
+      ],
+      "monthly_vol": 10554,
+      "priority": "P0 立即"
+    },
+    {
+      "province": "上海市",
+      "product": "金滴",
+      "event": "金滴平台切换",
+      "window": "3/23-3/27",
+      "days_until": 2,
+      "prep_checklist": [
+        "总代变更确认函",
+        "进口药品注册证",
+        "授权委托书",
+        "海牙认证文件",
+        "领馆认证文件",
+        "翻译公证材料"
+      ],
+      "monthly_vol": 3198,
+      "priority": "P0 立即"
+    },
+    {
+      "province": "上海市",
+      "product": "威利坦",
+      "event": "威利坦平台切换",
+      "window": "3/23-3/27",
+      "days_until": 2,
+      "prep_checklist": [
+        "总代变更确认函",
+        "进口药品注册证",
+        "授权委托书",
+        "海牙认证文件",
+        "领馆认证文件",
+        "翻译公证材料"
+      ],
+      "monthly_vol": 16702,
+      "priority": "P0 立即"
+    },
+    {
+      "province": "吉林省",
+      "product": "T40",
+      "event": "T40平台切换",
+      "window": "3/23-3/31",
+      "days_until": 2,
+      "prep_checklist": [
+        "总代变更确认函",
+        "进口药品注册证",
+        "GMP证书",
+        "授权委托书",
+        "挂网申请材料"
+      ],
+      "monthly_vol": 52972,
+      "priority": "P1 短期"
+    },
+    {
+      "province": "天津市",
+      "product": "—",
+      "event": "天津挂网标准化信息确认截止",
+      "window": "2026-03-23",
+      "days_until": 2,
+      "prep_checklist": [
+        "确认进展",
+        "准备应急方案"
+      ],
+      "monthly_vol": 0,
+      "priority": "high"
+    },
+    {
+      "province": "宁夏回族自治区",
+      "product": "T40",
+      "event": "T40平台切换",
+      "window": "3/23-3/31",
+      "days_until": 2,
+      "prep_checklist": [
+        "总代变更确认函",
+        "进口药品注册证",
+        "GMP证书",
+        "授权委托书",
+        "挂网申请材料"
+      ],
+      "monthly_vol": 11278,
+      "priority": "P4 观察"
+    },
+    {
+      "province": "山西省",
+      "product": "T40",
+      "event": "T40平台切换",
+      "window": "3/23-3/31",
+      "days_until": 2,
+      "prep_checklist": [
+        "总代变更确认函",
+        "进口药品注册证",
+        "GMP证书",
+        "授权委托书",
+        "挂网申请材料"
+      ],
+      "monthly_vol": 32855,
+      "priority": "P1 短期"
+    },
+    {
+      "province": "上海市",
+      "product": "—",
+      "event": "20T/40T平台切换+海牙认证递交",
+      "window": "2026-03-27",
+      "days_until": 6,
+      "prep_checklist": [
+        "确认进展",
+        "准备应急方案"
+      ],
+      "monthly_vol": 0,
+      "priority": "critical"
+    },
+    {
+      "province": "吉林省",
+      "product": "—",
+      "event": "40T平台切换",
+      "window": "2026-03-27",
+      "days_until": 6,
+      "prep_checklist": [
+        "确认进展",
+        "准备应急方案"
+      ],
+      "monthly_vol": 0,
+      "priority": "high"
+    }
+  ],
+  "t60_status": {
+    "done_count": 3,
+    "done_provinces": [
+      {
+        "province": "北京市",
+        "status": "已完成(2026-03-20Ada邮件确认)",
+        "biz_share": 0.104971072445658
+      },
+      {
+        "province": "江苏省",
+        "status": "已挂网(3/20)",
+        "biz_share": 0.0136688657579927
+      },
+      {
+        "province": "辽宁省",
+        "status": "已完成(2026-03-20Ada邮件确认)",
+        "biz_share": 0.104670834387121
+      }
+    ],
+    "pending_count": 4,
+    "pending_provinces": [
+      {
+        "province": "天津市",
+        "status": "2/23～3/31",
+        "biz_share": 0.0565253724223568
+      },
+      {
+        "province": "福建省",
+        "status": "4/27~4/30",
+        "biz_share": 0.0113377755011529
+      },
+      {
+        "province": "广西壮族自治区",
+        "status": "4/27~4/30",
+        "biz_share": 0.00828794897863378
+      },
+      {
+        "province": "重庆市",
+        "status": "4/27~4/30",
+        "biz_share": 0.00202380858043731
+      }
+    ],
+    "blocked_count": 24,
+    "blocked_provinces": [
+      {
+        "province": "黑龙江省",
+        "blocker": "暂不启动",
+        "biz_share": 0.178191826835833
+      },
+      {
+        "province": "内蒙古自治区",
+        "blocker": "3省截图",
+        "biz_share": 0.0719032931661313
+      },
+      {
+        "province": "广东省",
+        "blocker": "1省挂网截图",
+        "biz_share": 0.0670334167148356
+      },
+      {
+        "province": "吉林省",
+        "blocker": "3省挂网截图",
+        "biz_share": 0.0571890969656006
+      },
+      {
+        "province": "山西省",
+        "blocker": "/",
+        "biz_share": 0.0496049024589801
+      },
+      {
+        "province": "山东省",
+        "blocker": "暂不启动",
+        "biz_share": 0.0462796628864784
+      },
+      {
+        "province": "河北省",
+        "blocker": "3省挂网截图",
+        "biz_share": 0.0417034199478675
+      },
+      {
+        "province": "上海市",
+        "blocker": "等待T40转到国药",
+        "biz_share": 0.0344798820657906
+      },
+      {
+        "province": "浙江省",
+        "blocker": "5省挂网截图",
+        "biz_share": 0.0302394502257853
+      },
+      {
+        "province": "宁夏回族自治区",
+        "blocker": "3省挂网截图及20片变更完成后",
+        "biz_share": 0.0198549990629018
+      },
+      {
+        "province": "陕西省",
+        "blocker": "3省挂网截图",
+        "biz_share": 0.0172859630636095
+      },
+      {
+        "province": "新疆维吾尔自治区",
+        "blocker": "兵团变更完半个月内",
+        "biz_share": 0.016990859480374
+      },
+      {
+        "province": "河南省",
+        "blocker": "3省挂网截图",
+        "biz_share": 0.0152984076745147
+      },
+      {
+        "province": "云南省",
+        "blocker": "3省挂网截图+1个省交易截图",
+        "biz_share": 0.0141281166187497
+      },
+      {
+        "province": "甘肃省",
+        "blocker": "3省挂网截图",
+        "biz_share": 0.0117657209376758
+      },
+      {
+        "province": "青海省",
+        "blocker": "提单后1.5月完成挂网",
+        "biz_share": 0.00788992404293702
+      },
+      {
+        "province": "四川省",
+        "blocker": "3省挂网截图（联审通办）",
+        "biz_share": 0.00659018881264544
+      },
+      {
+        "province": "海南省",
+        "blocker": "3省挂网截图",
+        "biz_share": 0.00527953987296488
+      },
+      {
+        "province": "湖北省",
+        "blocker": "1省挂网截图",
+        "biz_share": 0.00172324942484375
+      },
+      {
+        "province": "贵州省",
+        "blocker": "1省挂网截图",
+        "biz_share": 0.00142343453734828
+      },
+      {
+        "province": "湖南省",
+        "blocker": "1省挂网截图",
+        "biz_share": 0.00123053932748613
+      },
+      {
+        "province": "安徽省",
+        "blocker": "3省挂网截图",
+        "biz_share": 0.000858607374663699
+      },
+      {
+        "province": "西藏自治区",
+        "blocker": "四川完成后2个月",
+        "biz_share": 0.000792937897202477
+      },
+      {
+        "province": "江西省",
+        "blocker": "1省挂网截图",
+        "biz_share": 0.000776882531427963
+      }
+    ],
+    "unlock_threshold": 3,
+    "is_unlocked": true
+  },
+  "switch_checklists": [
+    {
+      "province": "上海市",
+      "priority": "P0 立即",
+      "products": [
+        {
+          "product": "T20",
+          "status": "3/23～3/27",
+          "has_timeline": true
+        },
+        {
+          "product": "T40",
+          "status": "3/23～3/27",
+          "has_timeline": true
+        },
+        {
+          "product": "金滴",
+          "status": "3/23～3/27",
+          "has_timeline": true
+        },
+        {
+          "product": "威利坦",
+          "status": "3/23～3/27",
+          "has_timeline": true
+        }
+      ],
+      "urgent": true,
+      "core_issues": [
+        "科园阻碍(进攻中)",
+        "20T/40T切换中",
+        "递交文件需海牙认证+领馆认证"
+      ]
+    },
+    {
+      "province": "吉林省",
+      "priority": "P1 短期",
+      "products": [
+        {
+          "product": "T40",
+          "status": "3/23～3/31",
+          "has_timeline": true
+        }
+      ],
+      "urgent": true,
+      "core_issues": [
+        "黄标",
+        "40T切换中"
+      ]
+    },
+    {
+      "province": "山西省",
+      "priority": "P1 短期",
+      "products": [
+        {
+          "product": "T40",
+          "status": "3/23～3/31",
+          "has_timeline": true
+        }
+      ],
+      "urgent": true,
+      "core_issues": [
+        "竞品低价21.69",
+        "40T切换中",
+        "调价格(提价申请已上报省局待决议)"
+      ]
+    },
+    {
+      "province": "天津市",
+      "priority": "P2 维护",
+      "products": [
+        {
+          "product": "T60",
+          "status": "2/23～3/31",
+          "has_timeline": true
+        }
+      ],
+      "urgent": true,
+      "core_issues": [
+        "科园(已攻克)"
+      ]
+    },
+    {
+      "province": "重庆市",
+      "priority": "P3 培育",
+      "products": [
+        {
+          "product": "T60",
+          "status": "4/27~4/30",
+          "has_timeline": true
+        }
+      ],
+      "urgent": true,
+      "core_issues": [
+        "20T切换中"
+      ]
+    },
+    {
+      "province": "宁夏回族自治区",
+      "priority": "P4 观察",
+      "products": [
+        {
+          "product": "T20",
+          "status": "资源协调中",
+          "has_timeline": false
+        },
+        {
+          "product": "T40",
+          "status": "3/23～3/31",
+          "has_timeline": true
+        },
+        {
+          "product": "威利坦",
+          "status": "资源协调中",
+          "has_timeline": false
+        }
+      ],
+      "urgent": true,
+      "core_issues": [
+        "科园(已攻克)",
+        "20T协调中",
+        "需GT20总代变更完成",
+        "平台坚持原总代确认"
+      ]
+    },
+    {
+      "province": "广西壮族自治区",
+      "priority": "P4 观察",
+      "products": [
+        {
+          "product": "T60",
+          "status": "4/27~4/30",
+          "has_timeline": true
+        }
+      ],
+      "urgent": true,
+      "core_issues": [
+        "科园阻碍",
+        "20T协调中",
+        "2/4已发起申诉等待平台审核结果"
+      ]
+    },
+    {
+      "province": "江苏省",
+      "priority": "P4 观察",
+      "products": [
+        {
+          "product": "T60",
+          "status": "已挂网(3/20)",
+          "has_timeline": true
+        }
+      ],
+      "urgent": true,
+      "core_issues": [
+        "竞品低价22.7",
+        "40T切换中",
+        "黄标风险",
+        "调价格(预计3/10公示)",
+        "双套价格监管体系"
+      ]
+    },
+    {
+      "province": "福建省",
+      "priority": "P4 观察",
+      "products": [
+        {
+          "product": "T40",
+          "status": "产品新增查询不到，T60预计4/27~4/30完成",
+          "has_timeline": true
+        },
+        {
+          "product": "T60",
+          "status": "4/27~4/30",
+          "has_timeline": true
+        }
+      ],
+      "urgent": true,
+      "core_issues": [
+        "金针无网",
+        "科园阻碍",
+        "40T前代理商"
+      ]
+    },
+    {
+      "province": "河北省",
+      "priority": "P0 立即",
+      "products": [
+        {
+          "product": "T20",
+          "status": "资源协调中",
+          "has_timeline": false
+        },
+        {
+          "product": "T40",
+          "status": "资源协调中",
+          "has_timeline": false
+        },
+        {
+          "product": "金滴",
+          "status": "资源协调中",
+          "has_timeline": false
+        },
+        {
+          "product": "威利坦",
+          "status": "资源协调中",
+          "has_timeline": false
+        }
+      ],
+      "urgent": false,
+      "core_issues": [
+        "金针无网",
+        "20T努力中",
+        "20T/40T未切换",
+        "科园阻碍"
+      ]
+    },
+    {
+      "province": "云南省",
+      "priority": "P4 观察",
+      "products": [
+        {
+          "product": "T20",
+          "status": "资源协调中",
+          "has_timeline": false
+        },
+        {
+          "product": "T40",
+          "status": "资源协调中",
+          "has_timeline": false
+        },
+        {
+          "product": "金滴",
+          "status": "资源协调中",
+          "has_timeline": false
+        },
+        {
+          "product": "威利坦",
+          "status": "资源协调中",
+          "has_timeline": false
+        }
+      ],
+      "urgent": false,
+      "core_issues": [
+        "科园阻碍",
+        "20T/40T未切换",
+        "云南不认可其它省已切换事实，要求严格执行省级政策"
+      ]
+    },
+    {
+      "province": "四川省",
+      "priority": "P4 观察",
+      "products": [
+        {
+          "product": "T20",
+          "status": "资源协调中",
+          "has_timeline": false
+        },
+        {
+          "product": "金滴",
+          "status": "资源协调中",
+          "has_timeline": false
+        },
+        {
+          "product": "威利坦",
+          "status": "资源协调中",
+          "has_timeline": false
+        }
+      ],
+      "urgent": false,
+      "core_issues": [
+        "黄标",
+        "科园阻碍",
+        "20T协调中",
+        "平台坚持要求原总代确认",
+        "GT40已3/2挂网成功(73.24元)"
+      ]
+    },
+    {
+      "province": "安徽省",
+      "priority": "P4 观察",
+      "products": [
+        {
+          "product": "T20",
+          "status": "资源协调中",
+          "has_timeline": false
+        },
+        {
+          "product": "T40",
+          "status": "资源协调中",
+          "has_timeline": false
+        },
+        {
+          "product": "威利坦",
+          "status": "资源协调中",
+          "has_timeline": false
+        }
+      ],
+      "urgent": false,
+      "core_issues": [
+        "黄标",
+        "金滴无网",
+        "路优泰无",
+        "科园阻碍",
+        "20T/40T未切换"
+      ]
+    },
+    {
+      "province": "青海省",
+      "priority": "P4 观察",
+      "products": [
+        {
+          "product": "威利坦",
+          "status": "资源协调中",
+          "has_timeline": false
+        }
+      ],
+      "urgent": false,
+      "core_issues": [
+        "竞品低价21.69",
+        "金滴无网",
+        "国控要求2万费用",
+        "调价格(今年已提交申请但未审核通过)",
+        "⚠金针调价初审不通过(需按不高于原价调整)",
+        "金针约1周后显示禁用(暂停挂网)"
+      ]
+    }
+  ],
+  "policy_milestones": [
+    {
+      "policy": "国家药品挂网管理办法",
+      "status": "征求意见稿阶段",
+      "impact": "可能统一各省挂网规则，影响T20/T40/T60跨省挂网策略",
+      "action": "持续关注正式稿发布时间，提前准备应对方案",
+      "monitor_keywords": [
+        "挂网管理办法",
+        "药品挂网",
+        "国家医保局"
+      ]
+    },
+    {
+      "policy": "广东联盟第十批集采",
+      "status": "执行中",
+      "impact": "金针中标价格影响各省联动定价",
+      "action": "监控各省落地执行时间表",
+      "monitor_keywords": [
+        "广东联盟",
+        "集采落地",
+        "联盟采购"
+      ]
+    },
+    {
+      "policy": "医保目录动态调整",
+      "status": "2026年度窗口预计Q3开放",
+      "impact": "路优泰等新品种医保准入机会",
+      "action": "Q2启动药经材料准备",
+      "monitor_keywords": [
+        "医保目录",
+        "动态调整",
+        "目录内"
+      ]
+    }
+  ]
+}

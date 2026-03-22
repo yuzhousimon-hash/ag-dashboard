@@ -1,0 +1,1903 @@
+[
+  {
+    "province": "上海市",
+    "region": "华南区",
+    "quadrant": "Ⅱ 战略攻坚",
+    "priority": "P0 立即",
+    "biz_share": 0.0344798820657906,
+    "health_index": 65.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "3/23～3/27",
+        "done": false,
+        "monthly_vol": 113988
+      },
+      "T40": {
+        "listed": true,
+        "switch_status": "3/23～3/27",
+        "done": false,
+        "monthly_vol": 10554
+      },
+      "T60": {
+        "listed": false,
+        "switch_status": "等待T40转到国药",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": true,
+        "switch_status": "3/23～3/27",
+        "done": false,
+        "monthly_vol": 3198
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "3/23～3/27",
+        "done": false,
+        "monthly_vol": 16702
+      }
+    },
+    "金针": {
+      "can_sell": true,
+      "color_label": null,
+      "gd_alliance": "×",
+      "price_status": "已挂网"
+    },
+    "core_issues": [
+      "科园阻碍(进攻中)",
+      "20T/40T切换中",
+      "递交文件需海牙认证+领馆认证"
+    ],
+    "key_contacts": "郑所长、黄科长",
+    "action_plan": "① 获得海牙认证文件\n② 翻译和公证\n③ 尝试递交\n④ 20T/40T平台切换",
+    "time_nodes": "20T: 3/23~3/27\n40T: 3/23~3/27\n海牙认证: 进行中",
+    "status": "进行中",
+    "stocking_advice": "3.5~4个月备货",
+    "alerts": [],
+    "deadlines": [
+      {
+        "date": "2026-03-27",
+        "desc": "20T/40T平台切换+海牙认证递交",
+        "urgency": "critical"
+      }
+    ],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "云南省",
+    "region": "华南区",
+    "quadrant": "Ⅳ 机会观察",
+    "priority": "P4 观察",
+    "biz_share": 0.0141281166187497,
+    "health_index": 51.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "资源协调中",
+        "done": false,
+        "monthly_vol": 37914
+      },
+      "T40": {
+        "listed": true,
+        "switch_status": "资源协调中",
+        "done": false,
+        "monthly_vol": 13771
+      },
+      "T60": {
+        "listed": false,
+        "switch_status": "3省挂网截图+1个省交易截图",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": true,
+        "switch_status": "资源协调中",
+        "done": false,
+        "monthly_vol": 1
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "资源协调中",
+        "done": false,
+        "monthly_vol": 842
+      }
+    },
+    "金针": {
+      "can_sell": true,
+      "color_label": null,
+      "gd_alliance": "参与未报量",
+      "price_status": "已挂网"
+    },
+    "core_issues": [
+      "科园阻碍",
+      "20T/40T未切换",
+      "云南不认可其它省已切换事实，要求严格执行省级政策"
+    ],
+    "key_contacts": "周主任、刘科长",
+    "action_plan": "① 3月上旬通过当地商业资源\n② 拜访分管领导再次沟通\n③ 科园阻碍攻克\n④ 20T/40T平台切换",
+    "time_nodes": "拜访: 3月上旬\n20T: 资源协调中\n40T: 资源协调中",
+    "status": "进行中",
+    "stocking_advice": "3.5~4个月备货",
+    "alerts": [],
+    "deadlines": [],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "内蒙古自治区",
+    "region": "东北区",
+    "quadrant": "Ⅰ 核心守护",
+    "priority": "P2 维护",
+    "biz_share": 0.0719032931661313,
+    "health_index": 77.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "2026/01/20已完成",
+        "done": true,
+        "monthly_vol": 204090
+      },
+      "T40": {
+        "listed": true,
+        "switch_status": "2026/1/29已完成",
+        "done": true,
+        "monthly_vol": 65930
+      },
+      "T60": {
+        "listed": false,
+        "switch_status": "3省截图",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": true,
+        "switch_status": "2026/01/20已完成",
+        "done": true,
+        "monthly_vol": 278
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "2026/01/20已完成",
+        "done": true,
+        "monthly_vol": 1338
+      }
+    },
+    "金针": {
+      "can_sell": true,
+      "color_label": "red",
+      "gd_alliance": "2026年3月10日至2027年3月9日",
+      "price_status": "已挂网"
+    },
+    "core_issues": [
+      "黄标",
+      "科园(已攻克)"
+    ],
+    "key_contacts": "nan",
+    "action_plan": "① 巩固科园攻克成果\n② 黄标替代方案",
+    "time_nodes": "20T/40T: 已完成",
+    "status": "—",
+    "stocking_advice": "2个月备货",
+    "alerts": [
+      {
+        "type": "color_upgrade",
+        "desc": "金针从黄标升级为红标",
+        "date": "2026-03-20"
+      }
+    ],
+    "deadlines": [],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "北京市",
+    "region": "华北区",
+    "quadrant": "Ⅰ 核心守护",
+    "priority": "P2 维护",
+    "biz_share": 0.104971072445658,
+    "health_index": 90.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "2026/02/09已完成",
+        "done": true,
+        "monthly_vol": 250448
+      },
+      "T40": {
+        "listed": true,
+        "switch_status": "2026/1/21已完成",
+        "done": true,
+        "monthly_vol": 9965
+      },
+      "T60": {
+        "listed": true,
+        "switch_status": "2026/1/21已完成",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": true,
+        "switch_status": "2026/1/21已完成",
+        "done": true,
+        "monthly_vol": 49791
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "2026/1/21已完成",
+        "done": true,
+        "monthly_vol": 13262
+      }
+    },
+    "金针": {
+      "can_sell": true,
+      "color_label": null,
+      "gd_alliance": "×",
+      "price_status": "已挂网"
+    },
+    "core_issues": [
+      "无重大问题"
+    ],
+    "key_contacts": "nan",
+    "action_plan": "① 深耕放量\n② 60T新规格推进",
+    "time_nodes": "全部已完成",
+    "status": "—",
+    "stocking_advice": "3个月备货",
+    "alerts": [],
+    "deadlines": [],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "吉林省",
+    "region": "东北区",
+    "quadrant": "Ⅰ 核心守护",
+    "priority": "P1 短期",
+    "biz_share": 0.0571890969656006,
+    "health_index": 74.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "2026/01/27已完成",
+        "done": true,
+        "monthly_vol": 150059
+      },
+      "T40": {
+        "listed": false,
+        "switch_status": "3/23～3/31",
+        "done": false,
+        "monthly_vol": 52972
+      },
+      "T60": {
+        "listed": false,
+        "switch_status": "3省挂网截图",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": true,
+        "switch_status": "2026/01/27已完成",
+        "done": true,
+        "monthly_vol": 12
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "2026/01/27已完成",
+        "done": true,
+        "monthly_vol": 1619
+      }
+    },
+    "金针": {
+      "can_sell": true,
+      "color_label": "yellow",
+      "gd_alliance": "2026年3月20日至2027年3月19日",
+      "price_status": "已挂网"
+    },
+    "core_issues": [
+      "黄标",
+      "40T切换中"
+    ],
+    "key_contacts": "nan",
+    "action_plan": "① 40T平台切换跟进\n② 黄标替代方案",
+    "time_nodes": "40T: 3/23~3/27",
+    "status": "—",
+    "stocking_advice": "3.5~4个月备货",
+    "alerts": [],
+    "deadlines": [
+      {
+        "date": "2026-03-27",
+        "desc": "40T平台切换",
+        "urgency": "high"
+      }
+    ],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "四川省",
+    "region": "华西区",
+    "quadrant": "Ⅳ 机会观察",
+    "priority": "P4 观察",
+    "biz_share": 0.00659018881264544,
+    "health_index": 60.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "资源协调中",
+        "done": false,
+        "monthly_vol": 13234
+      },
+      "T40": {
+        "listed": true,
+        "switch_status": "2026/03/02已完成",
+        "done": true,
+        "monthly_vol": 6625
+      },
+      "T60": {
+        "listed": false,
+        "switch_status": "3省挂网截图（联审通办）",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": true,
+        "switch_status": "资源协调中",
+        "done": false,
+        "monthly_vol": 806
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "资源协调中",
+        "done": false,
+        "monthly_vol": 1249
+      }
+    },
+    "金针": {
+      "can_sell": true,
+      "color_label": "yellow",
+      "gd_alliance": "2026年2月6日至2027年12月31日",
+      "price_status": "已挂网"
+    },
+    "core_issues": [
+      "黄标",
+      "科园阻碍",
+      "20T协调中",
+      "平台坚持要求原总代确认",
+      "GT40已3/2挂网成功(73.24元)"
+    ],
+    "key_contacts": "nan",
+    "action_plan": "① GT40已3/2挂网成功，正安排配送\n② 科园阻碍攻克\n③ 20T平台切换推进",
+    "time_nodes": "GT40挂网: 3/2已完成✅\n配送: 安排中\n20T: 资源协调中",
+    "status": "进行中",
+    "stocking_advice": "2个月备货",
+    "alerts": [],
+    "deadlines": [],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "天津市",
+    "region": "华北区",
+    "quadrant": "Ⅰ 核心守护",
+    "priority": "P2 维护",
+    "biz_share": 0.0565253724223568,
+    "health_index": 85.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "2026/02/11已完成",
+        "done": true,
+        "monthly_vol": 249998
+      },
+      "T40": {
+        "listed": true,
+        "switch_status": "2026/02/11已完成",
+        "done": true,
+        "monthly_vol": 658
+      },
+      "T60": {
+        "listed": false,
+        "switch_status": "2/23～3/31",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": true,
+        "switch_status": "2026/02/11已完成",
+        "done": true,
+        "monthly_vol": 3133
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "2026/02/11已完成",
+        "done": true,
+        "monthly_vol": 2733
+      }
+    },
+    "金针": {
+      "can_sell": true,
+      "color_label": null,
+      "gd_alliance": "×",
+      "price_status": "已挂网"
+    },
+    "core_issues": [
+      "科园(已攻克)"
+    ],
+    "key_contacts": "nan",
+    "action_plan": "① 巩固科园攻克成果\n② 60T/60片新规格推进",
+    "time_nodes": "全部已完成",
+    "status": "—",
+    "stocking_advice": "2个月备货",
+    "alerts": [
+      {
+        "type": "info_confirm",
+        "desc": "威利坦/路优泰挂网标准化信息确认(3/19-3/23)",
+        "date": "2026-03-19"
+      }
+    ],
+    "deadlines": [
+      {
+        "date": "2026-03-23",
+        "desc": "天津挂网标准化信息确认截止",
+        "urgency": "high"
+      }
+    ],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "宁夏回族自治区",
+    "region": "华西区",
+    "quadrant": "Ⅳ 机会观察",
+    "priority": "P4 观察",
+    "biz_share": 0.0198549990629018,
+    "health_index": 67.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "资源协调中",
+        "done": false,
+        "monthly_vol": 66055
+      },
+      "T40": {
+        "listed": false,
+        "switch_status": "3/23～3/31",
+        "done": false,
+        "monthly_vol": 11278
+      },
+      "T60": {
+        "listed": false,
+        "switch_status": "3省挂网截图及20片变更完成后",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": true,
+        "switch_status": "需原代理商操作",
+        "done": false,
+        "monthly_vol": 2
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "资源协调中",
+        "done": false,
+        "monthly_vol": 3349
+      }
+    },
+    "金针": {
+      "can_sell": true,
+      "color_label": null,
+      "gd_alliance": "参与未报量",
+      "price_status": "已挂网"
+    },
+    "core_issues": [
+      "科园(已攻克)",
+      "20T协调中",
+      "需GT20总代变更完成",
+      "平台坚持原总代确认"
+    ],
+    "key_contacts": "医保局莫科、张科",
+    "action_plan": "① 推进GT20总代变更\n② 3/3已拜访宁夏医保局\n③ 3/3国药已提交GT40挂网申请\n④ 3/4申诉资料已上传平台，待审核",
+    "time_nodes": "拜访: 3/3已完成✅\nGT40申请: 3/3已提交✅\n申诉: 3/4已上传✅\n40T: 3/23~3/31",
+    "status": "进行中",
+    "stocking_advice": "3.5~4个月备货",
+    "alerts": [
+      {
+        "type": "price_risk",
+        "desc": "T20/威利坦挂网价疑似高于药店零售价，需3/31前自查调整",
+        "date": "2026-03-19"
+      }
+    ],
+    "deadlines": [
+      {
+        "date": "2026-03-31",
+        "desc": "宁夏挂网价格风险自查截止",
+        "urgency": "critical"
+      },
+      {
+        "date": "2026-03-31",
+        "desc": "40T挂网+GT20总代变更",
+        "urgency": "high"
+      }
+    ],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "安徽省",
+    "region": "华东区",
+    "quadrant": "Ⅳ 机会观察",
+    "priority": "P4 观察",
+    "biz_share": 0.000858607374663699,
+    "health_index": 36.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "资源协调中",
+        "done": false,
+        "monthly_vol": 459
+      },
+      "T40": {
+        "listed": true,
+        "switch_status": "资源协调中",
+        "done": false,
+        "monthly_vol": 1842
+      },
+      "T60": {
+        "listed": false,
+        "switch_status": "3省挂网截图",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": false,
+        "switch_status": "/",
+        "done": false,
+        "monthly_vol": 2
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "资源协调中",
+        "done": false,
+        "monthly_vol": 19
+      }
+    },
+    "金针": {
+      "can_sell": true,
+      "color_label": null,
+      "gd_alliance": "参与未报量",
+      "price_status": "已挂网"
+    },
+    "core_issues": [
+      "黄标",
+      "金滴无网",
+      "路优泰无",
+      "科园阻碍",
+      "20T/40T未切换"
+    ],
+    "key_contacts": "nan",
+    "action_plan": "① 科园阻碍攻克\n② 20T/40T平台切换\n③ 金滴/路优泰挂网",
+    "time_nodes": "20T: 资源协调中\n40T: 资源协调中",
+    "status": "—",
+    "stocking_advice": "3.5~4个月备货",
+    "alerts": [],
+    "deadlines": [],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "山东省",
+    "region": "华东区",
+    "quadrant": "Ⅰ 核心守护",
+    "priority": "P2 维护",
+    "biz_share": 0.0462796628864784,
+    "health_index": 77.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "2026/01/14已完成",
+        "done": true,
+        "monthly_vol": 156679
+      },
+      "T40": {
+        "listed": true,
+        "switch_status": "2026/01/14已完成",
+        "done": true,
+        "monthly_vol": 17566
+      },
+      "T60": {
+        "listed": false,
+        "switch_status": "暂不启动",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": true,
+        "switch_status": "2026/01/15已完成",
+        "done": true,
+        "monthly_vol": 177
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "2026/01/15已完成",
+        "done": true,
+        "monthly_vol": 5258
+      }
+    },
+    "金针": {
+      "can_sell": true,
+      "color_label": "yellow",
+      "gd_alliance": "×",
+      "price_status": "已挂网"
+    },
+    "core_issues": [
+      "黄标",
+      "科园(已攻克)"
+    ],
+    "key_contacts": "nan",
+    "action_plan": "① 巩固科园攻克成果\n② 黄标替代方案",
+    "time_nodes": "20T/40T: 已完成",
+    "status": "已完成",
+    "stocking_advice": "2个月备货",
+    "alerts": [
+      {
+        "type": "inactive_zone_resolved",
+        "desc": "金滴不活跃区已解决(3/20有订单+调入活跃区)",
+        "date": "2026-03-20"
+      }
+    ],
+    "deadlines": [],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "山西省",
+    "region": "华北区",
+    "quadrant": "Ⅱ 战略攻坚",
+    "priority": "P1 短期",
+    "biz_share": 0.0496049024589801,
+    "health_index": 69.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "2026/01/30已完成",
+        "done": true,
+        "monthly_vol": 171172
+      },
+      "T40": {
+        "listed": false,
+        "switch_status": "3/23～3/31",
+        "done": false,
+        "monthly_vol": 32855
+      },
+      "T60": {
+        "listed": false,
+        "switch_status": "/",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": true,
+        "switch_status": "2026/01/30已完成",
+        "done": true,
+        "monthly_vol": 236
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "2026/01/30已完成",
+        "done": true,
+        "monthly_vol": 2602
+      }
+    },
+    "金针": {
+      "can_sell": false,
+      "color_label": "yellow",
+      "gd_alliance": "2026年1月31日至2027年1月30日",
+      "price_status": "集采价格"
+    },
+    "core_issues": [
+      "竞品低价21.69",
+      "40T切换中",
+      "调价格(提价申请已上报省局待决议)"
+    ],
+    "key_contacts": "采购中心(已上报省局)",
+    "action_plan": "① 12/30邮件提交调价申请\n② 1/23拜访确认已上报省局\n③ 3/9-3/13拜访沟通跟进调价进展\n④ 40T平台切换",
+    "time_nodes": "调价申请: 12/30已提交\n拜访跟进: 3/9~3/13\n40T: 3/23~3/31",
+    "status": "进行中",
+    "stocking_advice": "3.5~4个月备货",
+    "alerts": [],
+    "deadlines": [
+      {
+        "date": "2026-03-31",
+        "desc": "40T平台切换",
+        "urgency": "high"
+      }
+    ],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "广东省",
+    "region": "华南区",
+    "quadrant": "Ⅰ 核心守护",
+    "priority": "P1 短期",
+    "biz_share": 0.0670334167148356,
+    "health_index": 72.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "2025/12/30已完成",
+        "done": true,
+        "monthly_vol": 124688
+      },
+      "T40": {
+        "listed": true,
+        "switch_status": "2026/1/19已完成",
+        "done": true,
+        "monthly_vol": 31149
+      },
+      "T60": {
+        "listed": false,
+        "switch_status": "1省挂网截图",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": true,
+        "switch_status": "2026/1/13已完成",
+        "done": true,
+        "monthly_vol": 3774
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "2026/1/13已完成",
+        "done": true,
+        "monthly_vol": 13006
+      }
+    },
+    "金针": {
+      "can_sell": false,
+      "color_label": null,
+      "gd_alliance": "2025年12月31日至2026年12月30日",
+      "price_status": "未挂网"
+    },
+    "core_issues": [
+      "金针无网",
+      "1/14启动24.1挂网被拒(1/23)",
+      "申报价高于集采最高中选价+高于原挂网价",
+      "调价格"
+    ],
+    "key_contacts": "广州GPO李总",
+    "action_plan": "① 3月上旬准备专利等充分证据\n② 再次拜访广州GPO平台\n③ 维护现有品种优势\n④ 推进调价格工作",
+    "time_nodes": "证据准备: 3月上旬\nGPO拜访: 3月中旬",
+    "status": "进行中",
+    "stocking_advice": "3个月备货",
+    "alerts": [],
+    "deadlines": [],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "广西壮族自治区",
+    "region": "华南区",
+    "quadrant": "Ⅳ 机会观察",
+    "priority": "P4 观察",
+    "biz_share": 0.00828794897863378,
+    "health_index": 65.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "协调资源",
+        "done": false,
+        "monthly_vol": 17252
+      },
+      "T40": {
+        "listed": true,
+        "switch_status": "2026/1/29已完成",
+        "done": true,
+        "monthly_vol": 9013
+      },
+      "T60": {
+        "listed": false,
+        "switch_status": "4/27~4/30",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": true,
+        "switch_status": "协调资源",
+        "done": false,
+        "monthly_vol": 310
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "协调资源",
+        "done": false,
+        "monthly_vol": 12
+      }
+    },
+    "金针": {
+      "can_sell": true,
+      "color_label": null,
+      "gd_alliance": "2026年1月30日至2027年1月29日",
+      "price_status": "已挂网"
+    },
+    "core_issues": [
+      "科园阻碍",
+      "20T协调中",
+      "2/4已发起申诉等待平台审核结果"
+    ],
+    "key_contacts": "海主任",
+    "action_plan": "① 2/4已线上申诉，等待审核\n② 若申诉失败，3月上旬通过国药广西资源拜访海主任\n③ 提出诉求推动切换",
+    "time_nodes": "申诉: 2/4已提交\nB计划拜访: 3月上旬\n40T: 已完成",
+    "status": "进行中",
+    "stocking_advice": "2个月备货",
+    "alerts": [],
+    "deadlines": [],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "新疆维吾尔自治区",
+    "region": "华西区",
+    "quadrant": "Ⅲ 选择培育",
+    "priority": "P3 培育",
+    "biz_share": 0.016990859480374,
+    "health_index": 72.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "2025/12/24已完成",
+        "done": true,
+        "monthly_vol": 28617
+      },
+      "T40": {
+        "listed": true,
+        "switch_status": "2026/01/29已完成",
+        "done": true,
+        "monthly_vol": 28012
+      },
+      "T60": {
+        "listed": false,
+        "switch_status": "兵团变更完半个月内",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": false,
+        "switch_status": "/",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "2026/1/12已完成",
+        "done": true,
+        "monthly_vol": 693
+      }
+    },
+    "金针": {
+      "can_sell": true,
+      "color_label": null,
+      "gd_alliance": "√",
+      "price_status": "已挂网"
+    },
+    "core_issues": [
+      "黄标",
+      "金滴无网",
+      "路优泰无"
+    ],
+    "key_contacts": "nan",
+    "action_plan": "① 金滴/路优泰挂网\n② 黄标替代方案",
+    "time_nodes": "全部已完成",
+    "status": "—",
+    "stocking_advice": "3.5~4个月备货",
+    "alerts": [],
+    "deadlines": [],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "江苏省",
+    "region": "华东区",
+    "quadrant": "Ⅳ 机会观察",
+    "priority": "P4 观察",
+    "biz_share": 0.0136688657579927,
+    "health_index": 69.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "2026/02/11已完成",
+        "done": true,
+        "monthly_vol": 61531
+      },
+      "T40": {
+        "listed": false,
+        "switch_status": "3/23～3/27",
+        "done": false,
+        "monthly_vol": 339
+      },
+      "T60": {
+        "listed": false,
+        "switch_status": "3/09~3/13",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": true,
+        "switch_status": "2026/02/11已完成",
+        "done": true,
+        "monthly_vol": 5
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "2026/02/11已完成",
+        "done": true,
+        "monthly_vol": 89
+      }
+    },
+    "金针": {
+      "can_sell": false,
+      "color_label": "yellow",
+      "gd_alliance": "×",
+      "price_status": "集采价格"
+    },
+    "core_issues": [
+      "竞品低价22.7",
+      "40T切换中",
+      "黄标风险",
+      "调价格(预计3/10公示)",
+      "双套价格监管体系"
+    ],
+    "key_contacts": "医保局：朱副局长\n价采处：王副处长",
+    "action_plan": "① 40T平台切换跟进\n② 3/2-3/6与商务拜访当地商业资源\n③ 提前干预标色/预警风险\n④ 调价格预计3/10公示，密切关注结果",
+    "time_nodes": "40T: 3/09~3/13\n调价公示: 预计3/10\n拜访: 3/2~3/6",
+    "status": "进行中",
+    "stocking_advice": "2个月备货",
+    "alerts": [],
+    "deadlines": [
+      {
+        "date": "2026-03-27",
+        "desc": "40T平台切换",
+        "urgency": "high"
+      }
+    ],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "江西省",
+    "region": "华南区",
+    "quadrant": "Ⅲ 选择培育",
+    "priority": "P3 培育",
+    "biz_share": 0.000776882531427963,
+    "health_index": 82.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "2025/12/31已完成",
+        "done": true,
+        "monthly_vol": 1460
+      },
+      "T40": {
+        "listed": true,
+        "switch_status": "2026/1/21已完成",
+        "done": true,
+        "monthly_vol": 0
+      },
+      "T60": {
+        "listed": false,
+        "switch_status": "1省挂网截图",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": true,
+        "switch_status": "2026/1/12已完成",
+        "done": true,
+        "monthly_vol": 5
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "2026/1/12已完成",
+        "done": true,
+        "monthly_vol": 1608
+      }
+    },
+    "金针": {
+      "can_sell": true,
+      "color_label": null,
+      "gd_alliance": "√",
+      "price_status": "已挂网"
+    },
+    "core_issues": [
+      "路优泰无"
+    ],
+    "key_contacts": "nan",
+    "action_plan": "① 路优泰挂网推进",
+    "time_nodes": "全部已完成",
+    "status": "—",
+    "stocking_advice": "2个月备货",
+    "alerts": [],
+    "deadlines": [],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "河北省",
+    "region": "华北区",
+    "quadrant": "Ⅱ 战略攻坚",
+    "priority": "P0 立即",
+    "biz_share": 0.0417034199478675,
+    "health_index": 34.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "资源协调中",
+        "done": false,
+        "monthly_vol": 156709
+      },
+      "T40": {
+        "listed": true,
+        "switch_status": "资源协调中",
+        "done": false,
+        "monthly_vol": 17455
+      },
+      "T60": {
+        "listed": false,
+        "switch_status": "3省挂网截图",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": true,
+        "switch_status": "资源协调中",
+        "done": false,
+        "monthly_vol": 589
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "资源协调中",
+        "done": false,
+        "monthly_vol": 3305
+      }
+    },
+    "金针": {
+      "can_sell": false,
+      "color_label": null,
+      "gd_alliance": "×",
+      "price_status": "未挂网"
+    },
+    "core_issues": [
+      "金针无网",
+      "20T努力中",
+      "20T/40T未切换",
+      "科园阻碍"
+    ],
+    "key_contacts": "nan",
+    "action_plan": "① 科园阻碍专项攻克\n② 金针挂网申报\n③ 20T/40T平台切换推进",
+    "time_nodes": "20T: 资源协调中\n40T: 资源协调中",
+    "status": "—",
+    "stocking_advice": "2个月备货",
+    "alerts": [],
+    "deadlines": [],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "河南省",
+    "region": "华东区",
+    "quadrant": "Ⅲ 选择培育",
+    "priority": "P3 培育",
+    "biz_share": 0.0152984076745147,
+    "health_index": 82.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "2026/02/13已完成",
+        "done": true,
+        "monthly_vol": 17241
+      },
+      "T40": {
+        "listed": true,
+        "switch_status": "2026/02/27已完成",
+        "done": true,
+        "monthly_vol": 5284
+      },
+      "T60": {
+        "listed": false,
+        "switch_status": "3省挂网截图",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": true,
+        "switch_status": "2026/02/13已完成",
+        "done": true,
+        "monthly_vol": 4307
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "2026/02/13已完成",
+        "done": true,
+        "monthly_vol": 28405
+      }
+    },
+    "金针": {
+      "can_sell": true,
+      "color_label": "yellow",
+      "gd_alliance": "2026年3月31日至2027年3月30日",
+      "price_status": "已挂网"
+    },
+    "core_issues": [
+      "无重大问题"
+    ],
+    "key_contacts": "nan",
+    "action_plan": "① 选择性渠道拓展",
+    "time_nodes": "全部已完成",
+    "status": "—",
+    "stocking_advice": "3.5~4个月备货",
+    "alerts": [
+      {
+        "type": "new_color_label",
+        "desc": "金针新增黄标(3/18广药确认)",
+        "date": "2026-03-18"
+      }
+    ],
+    "deadlines": [],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "浙江省",
+    "region": "华南区",
+    "quadrant": "Ⅰ 核心守护",
+    "priority": "P2 维护",
+    "biz_share": 0.0302394502257853,
+    "health_index": 77.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "2026/01/23已完成",
+        "done": true,
+        "monthly_vol": 8030
+      },
+      "T40": {
+        "listed": true,
+        "switch_status": "2026/01/23已完成",
+        "done": true,
+        "monthly_vol": 5529
+      },
+      "T60": {
+        "listed": false,
+        "switch_status": "5省挂网截图",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": true,
+        "switch_status": "2026/01/23已完成",
+        "done": true,
+        "monthly_vol": 50955
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "2026/01/23已完成",
+        "done": true,
+        "monthly_vol": 40815
+      }
+    },
+    "金针": {
+      "can_sell": true,
+      "color_label": "yellow",
+      "gd_alliance": "×",
+      "price_status": "已挂网"
+    },
+    "core_issues": [
+      "黄标",
+      "路优泰无",
+      "非医保身份天然限制(仅限医保目录品种挂网)",
+      "无在线交易药品申报仅限医保目录"
+    ],
+    "key_contacts": "浙江省卫生经济学会\n朱佳英",
+    "action_plan": "① 获得≥5家三级公立医疗机构议价支持\n② 准备药物相互作用风险管控方案\n③ 与学术部/KA共同拜访朱佳英开展研究项目",
+    "time_nodes": "20T/40T: 已完成\n议价拟联: 进行中\n研究项目: 规划中",
+    "status": "进行中",
+    "stocking_advice": "2个月备货",
+    "alerts": [],
+    "deadlines": [],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "海南省",
+    "region": "华南区",
+    "quadrant": "Ⅳ 机会观察",
+    "priority": "P4 观察",
+    "biz_share": 0.00527953987296488,
+    "health_index": 60.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "2026/01/20已完成",
+        "done": true,
+        "monthly_vol": 24177
+      },
+      "T40": {
+        "listed": true,
+        "switch_status": "2026/01/15已完成",
+        "done": true,
+        "monthly_vol": 0
+      },
+      "T60": {
+        "listed": false,
+        "switch_status": "3省挂网截图",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": true,
+        "switch_status": "2026/01/22已完成",
+        "done": true,
+        "monthly_vol": 0
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "2026/01/22已完成",
+        "done": true,
+        "monthly_vol": 126
+      }
+    },
+    "金针": {
+      "can_sell": false,
+      "color_label": null,
+      "gd_alliance": "2026年3月1日至2027年2月27日",
+      "price_status": "未挂网"
+    },
+    "core_issues": [
+      "金针无网",
+      "竞品低价21.69(广东联盟)",
+      "挂网价不高于集采最高中选价",
+      "3年内禁止上调挂网价",
+      "调价格(正在申报中)",
+      "路优泰新挂"
+    ],
+    "key_contacts": "省政府采购中心\n药品挂网交易负责人\n李处长",
+    "action_plan": "① 20T/40T平台切换已完成✅\n② 优先处理牵头省份广东\n③ 广东突破后再沟通海南事宜\n④ 调价格正在申报中，跟进申报进度\n⑤ 路优泰新挂，跟进落地",
+    "time_nodes": "20T: 已完成✅\n40T: 已完成✅\n调价申报: 进行中\n路优泰: 新挂跟进中\n待广东突破后启动金针",
+    "status": "进行中",
+    "stocking_advice": "3个月备货",
+    "alerts": [],
+    "deadlines": [],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "湖北省",
+    "region": "华东区",
+    "quadrant": "Ⅳ 机会观察",
+    "priority": "P4 观察",
+    "biz_share": 0.00172324942484375,
+    "health_index": 72.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "2026/03/06已完成",
+        "done": true,
+        "monthly_vol": 5465
+      },
+      "T40": {
+        "listed": true,
+        "switch_status": "2026/03/06已完成",
+        "done": true,
+        "monthly_vol": 434
+      },
+      "T60": {
+        "listed": false,
+        "switch_status": "1省挂网截图",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": true,
+        "switch_status": "2026/03/06已完成",
+        "done": true,
+        "monthly_vol": 7
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "2026/03/06已完成",
+        "done": true,
+        "monthly_vol": 784
+      }
+    },
+    "金针": {
+      "can_sell": false,
+      "color_label": null,
+      "gd_alliance": "×",
+      "price_status": "未挂网"
+    },
+    "core_issues": [
+      "金针无网"
+    ],
+    "key_contacts": "nan",
+    "action_plan": "① 20T/40T平台切换已完成✅\n② 金针挂网申报",
+    "time_nodes": "20T: 已完成✅\n40T: 已完成✅",
+    "status": "—",
+    "stocking_advice": "2个月备货",
+    "alerts": [],
+    "deadlines": [],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "湖南省",
+    "region": "华东区",
+    "quadrant": "Ⅳ 机会观察",
+    "priority": "P4 观察",
+    "biz_share": 0.00123053932748613,
+    "health_index": 67.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "2026/01/08已完成",
+        "done": true,
+        "monthly_vol": 2478
+      },
+      "T40": {
+        "listed": true,
+        "switch_status": "2026/1/27已完成",
+        "done": true,
+        "monthly_vol": 659
+      },
+      "T60": {
+        "listed": false,
+        "switch_status": "1省挂网截图",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": true,
+        "switch_status": "2026/01/22已完成",
+        "done": true,
+        "monthly_vol": 97
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "2026/01/22已完成",
+        "done": true,
+        "monthly_vol": 239
+      }
+    },
+    "金针": {
+      "can_sell": true,
+      "color_label": "yellow",
+      "gd_alliance": "2026年1月1日至2026年12月31日",
+      "price_status": "已挂网"
+    },
+    "core_issues": [
+      "黄标",
+      "金针无网"
+    ],
+    "key_contacts": "nan",
+    "action_plan": "① 金针挂网申报",
+    "time_nodes": "全部已完成",
+    "status": "—",
+    "stocking_advice": "2个月备货",
+    "alerts": [],
+    "deadlines": [],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "甘肃省",
+    "region": "华西区",
+    "quadrant": "Ⅲ 选择培育",
+    "priority": "P3 培育",
+    "biz_share": 0.0117657209376758,
+    "health_index": 72.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "2026/01/23已完成",
+        "done": true,
+        "monthly_vol": 29153
+      },
+      "T40": {
+        "listed": true,
+        "switch_status": "2026/02/26已完成",
+        "done": true,
+        "monthly_vol": 9586
+      },
+      "T60": {
+        "listed": false,
+        "switch_status": "3省挂网截图",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": true,
+        "switch_status": "2026/01/23已完成",
+        "done": true,
+        "monthly_vol": 864
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "2026/01/23已完成",
+        "done": true,
+        "monthly_vol": 179
+      }
+    },
+    "金针": {
+      "can_sell": false,
+      "color_label": null,
+      "gd_alliance": "×",
+      "price_status": "未挂网"
+    },
+    "core_issues": [
+      "金针无网"
+    ],
+    "key_contacts": "nan",
+    "action_plan": "① 金针挂网申报",
+    "time_nodes": "全部已完成",
+    "status": "—",
+    "stocking_advice": "3个月备货",
+    "alerts": [],
+    "deadlines": [],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "福建省",
+    "region": "华南区",
+    "quadrant": "Ⅳ 机会观察",
+    "priority": "P4 观察",
+    "biz_share": 0.0113377755011529,
+    "health_index": 41.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "2026/01/16已完成",
+        "done": true,
+        "monthly_vol": 29924
+      },
+      "T40": {
+        "listed": false,
+        "switch_status": "产品新增查询不到，T60预计4/27~4/30完成",
+        "done": false,
+        "monthly_vol": 1860
+      },
+      "T60": {
+        "listed": false,
+        "switch_status": "4/27~4/30",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": true,
+        "switch_status": "2026/01/23已完成",
+        "done": true,
+        "monthly_vol": 12242
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "2026/01/23已完成",
+        "done": true,
+        "monthly_vol": 2
+      }
+    },
+    "金针": {
+      "can_sell": false,
+      "color_label": null,
+      "gd_alliance": "×",
+      "price_status": "未挂网"
+    },
+    "core_issues": [
+      "金针无网",
+      "科园阻碍",
+      "40T前代理商"
+    ],
+    "key_contacts": "nan",
+    "action_plan": "① 科园阻碍攻克\n② 金针挂网\n③ 40T前代理商系统迁移",
+    "time_nodes": "20T: 已完成\n40T: 前代理商\n60片: 4/27~4/30",
+    "status": "—",
+    "stocking_advice": "3个月备货",
+    "alerts": [],
+    "deadlines": [
+      {
+        "date": "2026-04-30",
+        "desc": "60片挂网",
+        "urgency": "medium"
+      }
+    ],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "西藏自治区",
+    "region": "华西区",
+    "quadrant": "Ⅳ 机会观察",
+    "priority": "P4 观察",
+    "biz_share": 0.000792937897202477,
+    "health_index": 60.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "四川完成后2个月内",
+        "done": false,
+        "monthly_vol": 3768
+      },
+      "T40": {
+        "listed": false,
+        "switch_status": "四川完成后2个月内",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "T60": {
+        "listed": false,
+        "switch_status": "四川完成后2个月",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": true,
+        "switch_status": "四川完成后2个月内",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "四川完成后2个月内",
+        "done": false,
+        "monthly_vol": 0
+      }
+    },
+    "金针": {
+      "can_sell": true,
+      "color_label": null,
+      "gd_alliance": "2026年3月1日至2027年12月31日",
+      "price_status": "已挂网"
+    },
+    "core_issues": [
+      "20T/40T切换待四川完成"
+    ],
+    "key_contacts": "nan",
+    "action_plan": "① 等四川完成后推进",
+    "time_nodes": "四川完成后2个月",
+    "status": "—",
+    "stocking_advice": "3.5~4个月备货",
+    "alerts": [],
+    "deadlines": [],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "贵州省",
+    "region": "华西区",
+    "quadrant": "Ⅲ 选择培育",
+    "priority": "P3 培育",
+    "biz_share": 0.00142343453734828,
+    "health_index": 87.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "2026/01/06已完成",
+        "done": true,
+        "monthly_vol": 5436
+      },
+      "T40": {
+        "listed": true,
+        "switch_status": "2026/02/26已完成",
+        "done": true,
+        "monthly_vol": 0
+      },
+      "T60": {
+        "listed": false,
+        "switch_status": "1省挂网截图",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": true,
+        "switch_status": "2026/01/13已完成",
+        "done": true,
+        "monthly_vol": 0
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "2026/01/13已完成",
+        "done": true,
+        "monthly_vol": 623
+      }
+    },
+    "金针": {
+      "can_sell": true,
+      "color_label": null,
+      "gd_alliance": "√",
+      "price_status": "已挂网"
+    },
+    "core_issues": [
+      "无重大问题"
+    ],
+    "key_contacts": "nan",
+    "action_plan": "① 选择性渠道拓展",
+    "time_nodes": "全部已完成",
+    "status": "—",
+    "stocking_advice": "2个月备货",
+    "alerts": [],
+    "deadlines": [],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "辽宁省",
+    "region": "东北区",
+    "quadrant": "Ⅰ 核心守护",
+    "priority": "P2 维护",
+    "biz_share": 0.104670834387121,
+    "health_index": 95.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "2026/01/30已完成",
+        "done": true,
+        "monthly_vol": 345306
+      },
+      "T40": {
+        "listed": true,
+        "switch_status": "2026/01/30已完成",
+        "done": true,
+        "monthly_vol": 48924
+      },
+      "T60": {
+        "listed": true,
+        "switch_status": "2026/02/28已完成",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": true,
+        "switch_status": "2026/01/30已完成",
+        "done": true,
+        "monthly_vol": 2862
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "2026/01/30已完成",
+        "done": true,
+        "monthly_vol": 18532
+      }
+    },
+    "金针": {
+      "can_sell": true,
+      "color_label": "yellow",
+      "gd_alliance": "2026年2月28日至2027年2月28日",
+      "price_status": "已挂网"
+    },
+    "core_issues": [
+      "黄标",
+      "60T挂网价108.25"
+    ],
+    "key_contacts": "nan",
+    "action_plan": "① 黄标替代方案\n② 深耕放量保持领先",
+    "time_nodes": "全部已完成",
+    "status": "—",
+    "stocking_advice": "3个月备货",
+    "alerts": [],
+    "deadlines": [],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "重庆市",
+    "region": "华西区",
+    "quadrant": "Ⅲ 选择培育",
+    "priority": "P3 培育",
+    "biz_share": 0.00202380858043731,
+    "health_index": 83.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "2026/03/20已完成",
+        "done": true,
+        "monthly_vol": 4559
+      },
+      "T40": {
+        "listed": true,
+        "switch_status": "2026/02/27已完成",
+        "done": true,
+        "monthly_vol": 560
+      },
+      "T60": {
+        "listed": false,
+        "switch_status": "4/27~4/30",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": true,
+        "switch_status": "2026/03/20已完成",
+        "done": true,
+        "monthly_vol": 2068
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "2026/03/20已完成",
+        "done": true,
+        "monthly_vol": 305
+      }
+    },
+    "金针": {
+      "can_sell": true,
+      "color_label": null,
+      "gd_alliance": "2026年4月8日至2027年4月7日",
+      "price_status": "已挂网"
+    },
+    "core_issues": [
+      "20T切换中"
+    ],
+    "key_contacts": "nan",
+    "action_plan": "① 20T平台切换跟进",
+    "time_nodes": "20T: 3/23~3/31\n40T: 已完成",
+    "status": "—",
+    "stocking_advice": "3个月备货",
+    "alerts": [],
+    "deadlines": [
+      {
+        "date": "2026-03-31",
+        "desc": "20T平台切换",
+        "urgency": "medium"
+      }
+    ],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "陕西省",
+    "region": "华西区",
+    "quadrant": "Ⅲ 选择培育",
+    "priority": "P3 培育",
+    "biz_share": 0.0172859630636095,
+    "health_index": 82.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "2026/01/08已完成",
+        "done": true,
+        "monthly_vol": 37751
+      },
+      "T40": {
+        "listed": true,
+        "switch_status": "2026/1/30已完成",
+        "done": true,
+        "monthly_vol": 11370
+      },
+      "T60": {
+        "listed": false,
+        "switch_status": "3省挂网截图",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": true,
+        "switch_status": "2026/01/19已完成",
+        "done": true,
+        "monthly_vol": 2183
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "2026/01/19已完成",
+        "done": true,
+        "monthly_vol": 11537
+      }
+    },
+    "金针": {
+      "can_sell": true,
+      "color_label": "yellow",
+      "gd_alliance": "2026年2月28至2027年2月27日",
+      "price_status": "已挂网"
+    },
+    "core_issues": [
+      "黄标"
+    ],
+    "key_contacts": "nan",
+    "action_plan": "① 黄标替代方案",
+    "time_nodes": "全部已完成",
+    "status": "—",
+    "stocking_advice": "2个月备货",
+    "alerts": [],
+    "deadlines": [],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "青海省",
+    "region": "华西区",
+    "quadrant": "Ⅳ 机会观察",
+    "priority": "P4 观察",
+    "biz_share": 0.00788992404293702,
+    "health_index": 54.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "2026/01/16已完成",
+        "done": true,
+        "monthly_vol": 19474
+      },
+      "T40": {
+        "listed": false,
+        "switch_status": "提单后1.5月完成挂网",
+        "done": false,
+        "monthly_vol": 9955
+      },
+      "T60": {
+        "listed": false,
+        "switch_status": "提单后1.5月完成挂网",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": false,
+        "switch_status": "提单后1.5月完成挂网",
+        "done": false,
+        "monthly_vol": 12
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "资源协调中",
+        "done": false,
+        "monthly_vol": 75
+      }
+    },
+    "金针": {
+      "can_sell": false,
+      "color_label": null,
+      "gd_alliance": "2026年2月28日至2027年2月27日",
+      "price_status": "集采价格（禁用）"
+    },
+    "core_issues": [
+      "竞品低价21.69",
+      "金滴无网",
+      "国控要求2万费用",
+      "调价格(今年已提交申请但未审核通过)",
+      "⚠金针调价初审不通过(需按不高于原价调整)",
+      "金针约1周后显示禁用(暂停挂网)"
+    ],
+    "key_contacts": "国控青海",
+    "action_plan": "① 3/4已提交申诉\n② 3/16-3/20拜访沟通\n③ 内部讨论2万费用支付形式和路径\n④ 金针可随时再次申报(未中选产品动态挂网)\n⑤ 调价格今年已提交申请但未审核通过，需重新准备材料再次申报",
+    "time_nodes": "申诉: 3/4已提交\n拜访: 3/16~3/20\n金针禁用: ~1周内\n40T: 提单后1.5月",
+    "status": "进行中",
+    "stocking_advice": "3.5~4个月备货",
+    "alerts": [],
+    "deadlines": [],
+    "last_updated": "2026-03-20"
+  },
+  {
+    "province": "黑龙江省",
+    "region": "东北区",
+    "quadrant": "Ⅰ 核心守护",
+    "priority": "P2 维护",
+    "biz_share": 0.178191826835833,
+    "health_index": 82.0,
+    "products": {
+      "T20": {
+        "listed": true,
+        "switch_status": "2026/02/04已完成",
+        "done": true,
+        "monthly_vol": 371060
+      },
+      "T40": {
+        "listed": true,
+        "switch_status": "2026/03/02已完成",
+        "done": true,
+        "monthly_vol": 229637
+      },
+      "T60": {
+        "listed": false,
+        "switch_status": "暂不启动",
+        "done": false,
+        "monthly_vol": 0
+      },
+      "金滴": {
+        "listed": true,
+        "switch_status": "2026/02/04已完成",
+        "done": true,
+        "monthly_vol": 14
+      },
+      "威利坦": {
+        "listed": true,
+        "switch_status": "2026/02/04已完成",
+        "done": true,
+        "monthly_vol": 18228
+      }
+    },
+    "金针": {
+      "can_sell": true,
+      "color_label": null,
+      "gd_alliance": "2026年1月30日至2027年1月29日",
+      "price_status": "已挂网"
+    },
+    "core_issues": [
+      "科园(已攻克)"
+    ],
+    "key_contacts": "nan",
+    "action_plan": "① 巩固科园攻克成果\n② 最大市场深耕放量",
+    "time_nodes": "20T/40T: 已完成",
+    "status": "已完成",
+    "stocking_advice": "3.5~4个月备货",
+    "alerts": [],
+    "deadlines": [],
+    "last_updated": "2026-03-20"
+  }
+]

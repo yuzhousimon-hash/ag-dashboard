@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-03-21 11:30",
+  "total_competitors": 11,
+  "high_threat_count": 5,
+  "product_lines": 3,
+  "intelligence": {
+    "ginaton": [
+      {"title": "银杏叶提取物集采流标：悦康药业权衡后放弃医院市场", "url": "https://pharnexcloud.com", "date": "2026-03", "threat": "high"},
+      {"title": "第四批中成药集采含银杏内酯注射液，关注对金纳多院内份额替代效应", "url": "https://stcn.com", "date": "2026-03", "threat": "critical"},
+      {"title": "舒血宁注射液DRG/DIP 3.0下注射vs口服博弈加剧：口服制剂受益", "url": "https://dxy.cn", "date": "2026-03", "threat": "high"},
+      {"title": "天保宁(康恩贝)OTC渠道电商价格竞争，杏灵分散片(绿谷)学术推广", "url": "https://cas.cn", "date": "2026-03", "threat": "medium"},
+      {"title": "银杏叶全球市场2.26亿美元(2026)→3.46亿(2035)，CAGR 4.9%", "url": "https://businessresearchinsights.com", "date": "2026-03", "threat": "info"}
+    ],
+    "venoforton": [
+      {"title": "迈之灵/地奥司明尚未纳入国家集采，零售价格体系独立运行", "url": "https://cgmh.com.cn", "date": "2026-03", "threat": "medium"},
+      {"title": "威利坦马栗种子0.4g×20片市场售价约55元，迈之灵150mg×20片约45.8元", "url": "https://315jiage.cn", "date": "2026-03", "threat": "info"},
+      {"title": "地奥司明集采纳入预期持续：集采周期3年，采购规则锚点价机制优化", "url": "https://cnpharm.com", "date": "2026-03", "threat": "high"}
+    ],
+    "laif": [
+      {"title": "解郁丸类中成药精神类：基药目录准入动态，以岭药业学术推广加码", "url": "https://people.com.cn", "date": "2026-03", "threat": "high"},
+      {"title": "抗焦虑OTC品类电商整体增长，消费者心智从处方药向健康品转移", "url": "https://stcn.com", "date": "2026-03", "threat": "medium"},
+      {"title": "十五五中成药退出机制：逐步完善批准文号退出，淘汰落后产能", "url": "https://cnma.org.cn", "date": "2026-03", "threat": "info"}
+    ]
+  }
+}

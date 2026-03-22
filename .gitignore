@@ -1,0 +1,22 @@
+# Sensitive business files
+*.xlsx
+*.pptx
+*.docx
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Google Drive metadata
+*.tmp
+~$*
