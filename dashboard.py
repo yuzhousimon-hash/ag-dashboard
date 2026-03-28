@@ -96,7 +96,8 @@ def get_all_deadlines():
 
 # ── HEADER ──
 st.markdown(f"<h1 style='text-align:center; margin-bottom:0;'>🗺️ 全国准入状况作战指挥台</h1>", unsafe_allow_html=True)
-st.markdown(f"<p style='text-align:center; color:{TEXT_LIGHT}; margin-top:0;'>数据截至 2026-03-20 | 覆盖 {len(data)} 个省级行政区</p>", unsafe_allow_html=True)
+current_date = datetime.now().strftime('%Y-%m-%d')
+st.markdown(f"<p style='text-align:center; color:{TEXT_LIGHT}; margin-top:0;'>数据截至 {current_date} | 覆盖 {len(data)} 个省级行政区</p>", unsafe_allow_html=True)
 
 # ── TABS ──
 tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs(["📊 全国态势总览", "🔄 产品切换进度", "⚠️ 风险预警", "⚡ 紧急行动看板", "📡 前瞻雷达", "📱 政策扫描", "🎯 竞品矩阵"])
@@ -377,7 +378,7 @@ with tab3:
 with tab4:
     st.subheader("⚡ 按紧急程度排序的行动清单")
 
-    today = datetime(2026, 3, 20)
+    today = datetime.now()
     all_actions = []
 
     # Collect deadlines
@@ -470,8 +471,9 @@ with tab4:
                     hovertext=f"{row['省份']}: {row['事项']}",
                 ))
             # Today line (use add_shape to avoid Plotly annotation bug)
-            fig_tl.add_shape(type="line", x0="2026-03-20", x1="2026-03-20", y0=0, y1=1, yref="paper", line=dict(dash="dash", color=ACCENT_CYAN, width=1))
-            fig_tl.add_annotation(x="2026-03-20", y=1, yref="paper", text="今天 3/20", showarrow=False, font=dict(color=ACCENT_CYAN, size=10))
+            today_str = datetime.now().strftime('%Y-%m-%d')
+            fig_tl.add_shape(type="line", x0=today_str, x1=today_str, y0=0, y1=1, yref="paper", line=dict(dash="dash", color=ACCENT_CYAN, width=1))
+            fig_tl.add_annotation(x=today_str, y=1, yref="paper", text=f"今天 {datetime.now().strftime('%m/%d')}", showarrow=False, font=dict(color=ACCENT_CYAN, size=10))
             fig_tl.update_layout(
                 height=350,
                 paper_bgcolor=BG_DARK, plot_bgcolor=BG_CARD,
