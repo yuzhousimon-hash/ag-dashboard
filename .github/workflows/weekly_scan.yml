@@ -1,9 +1,9 @@
-name: Weekly Policy Scan
+name: Weekly Auto Update
 
 on:
   schedule:
-    # 每周五 18:45 北京时间 = 10:45 UTC
-    - cron: '45 10 * * 5'
+    # 每周六 09:00 北京时间 = 01:00 UTC
+    - cron: '0 1 * * 6'
   workflow_dispatch:  # 允许手动触发
 
 permissions:
@@ -30,6 +30,13 @@ jobs:
           GOOGLE_CSE_CX: ${{ secrets.GOOGLE_CSE_CX }}
         run: python etl/auto_scanner.py
 
+      - name: Run Gmail Extractor & Sync Status
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python etl/gmail_to_dashboard.py
+
       - name: Run weekly report
         run: python weekly_runner.py
 
@@ -38,5 +45,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          git diff --cached --quiet || git commit -m "chore: weekly policy scan $(date +%Y-%m-%d)"
+          git diff --cached --quiet || git commit -m "chore: auto sync data & policies $(date +%Y-%m-%d)"
           git push
