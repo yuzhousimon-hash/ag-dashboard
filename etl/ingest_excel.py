@@ -7,6 +7,7 @@
 """
 import json, os, re
 import pandas as pd
+from datetime import datetime
 from pathlib import Path
 
 BASE = Path(__file__).resolve().parent.parent
@@ -181,6 +182,20 @@ EMAIL_PATCHES = {
         },
         "alert": {"type": "switch_complete", "desc": "T20/金滴/威利坦切换完成(Ada 3/20确认)", "date": "2026-03-20"},
     },
+    # ── 2026-03-28 新增 (邮箱检索结果) ──
+    "江西省": {
+        "金针_color_override": "red",
+        "alert": {"type": "color_upgrade", "desc": "金针挂网价格整改，升级为红标", "date": "2026-03-27"},
+    },
+    "海南省": {
+        "product_overrides": {
+             "金针": {"can_sell": True, "price_status": "已完成挂网(3/26确认)"}
+        },
+        "alert": {"type": "switch_complete", "desc": "金纳多针完成挂网 (Ada 3/26确认)", "date": "2026-03-26"},
+    },
+    "云南省": {
+        "alert": {"type": "price_risk", "desc": "价格风险预警标识通知 (3/26)", "date": "2026-03-26"},
+    },
 }
 
 # Known deadlines from action plan data
@@ -214,7 +229,9 @@ def merge_all():
         # Apply product overrides from email
         if patch.get("product_overrides"):
             for pk, pv in patch["product_overrides"].items():
-                if pk in products:
+                if pk == "金针":
+                    jinzhen.update(pv)
+                elif pk in products:
                     products[pk].update(pv)
                 else:
                     products[pk] = pv
@@ -247,7 +264,7 @@ def merge_all():
             "stocking_advice": p.get("stocking_advice", ""),
             "alerts": alerts,
             "deadlines": deadlines,
-            "last_updated": "2026-03-20T19:31",
+            "last_updated": datetime.now().strftime("%Y-%m-%dT%H:%M"),
         }
         master.append(rec)
     return master
